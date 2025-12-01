@@ -1,10 +1,10 @@
 {
-  "title": "Employment Change",
+  "title": "ISM Manufacturing PMI",
   "impact": "High",
   "country": "United States",
   "currency": "USD",
   "flag": "🇺🇸",
-  "date": "2025-02-15",
-  "forecast": "123K",
-  "previous": "98K"
+  "date": "2025-12-02",
+  "forecast": "49.0",
+  "previous": "48.7"
 }
